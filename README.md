@@ -7,7 +7,10 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 
 ## Part 2. Data
 ### 2.1. Background Information
-| Box  | 盒<br>組 | 顆<br>粒<br>個<br>串 |
+
+| Big   | Medium   | Small               |
+| :---: | :---:    | :---:               |
+| Box   | 盒<br>組 | 顆<br>粒<br>個<br>串 |
 
 ### 2.2. Original Data
 | Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                   | Box  |  
