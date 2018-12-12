@@ -42,6 +42,12 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 - Tool: Python ```astype```
 
 ### 3.2. Select Data
+### 3.3. Define Function
+#### 3.3.1. Extract Substrings by Regular Expression 
+#### 3.3.2. Convert Strings to Numeric Values
+#### 3.3.3. Multiplication
+
+### 3.3. Calculate 
 
 
 ## Part 4. Steps
