@@ -6,6 +6,8 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 > **_Point 2:_** People who are responsible for maintaining Order Report may have different preferences when it comes to creating units of measure. 
 
 ## Part 2. Data
+### 2.1. Background Information
+### 2.2. Original Data
 | Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                   | Box  |  
 | :---:  | ---     | :---: | ---           | ---                          | ---: | 
 |      1 | Store 1 |     1 | APPL001       | Red Delicious（8顆＊3盒）     |  100 | 
