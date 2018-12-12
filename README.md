@@ -1,4 +1,4 @@
-# Regular_Expression
+# Regular Expression
 ## Part 1. Objective
 Purchasing unit defined in the Order Report is ***Box*** and the aim is to identify how many ***Pieces*** were purchased during a specific period of time.
 > **_Point 1:_** Measurement of per unit volume purchased is specified in Column ***Fruit_Name*** and denoted with parentheses.
