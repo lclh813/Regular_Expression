@@ -7,7 +7,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 
 ## Part 2. Data
 ### 2.1. Background Information
-> ***2.1.1. Info 1. Hierarchy of Measuring Units***
+> ***Info 1. Hierarchy of Measuring Units***
 
 | High  | Middle   | Low |
 | :---: | :---:  | :---: |
