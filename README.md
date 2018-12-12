@@ -7,8 +7,8 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 
 ## Part 2. Data
 ### 2.1. Background Information
-
-| Big   | Medium   | Small               |
+> ***2.1.1. Info 1. Hierarchy of Measuring Units***
+| High  | <->      | Low                 |
 | :---: | :---:    | :---:               |
 | Box   | 盒<br>組 | 顆<br>粒<br>個<br>串 |
 
