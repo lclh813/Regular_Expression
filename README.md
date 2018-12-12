@@ -9,7 +9,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 ### 2.1. Background Information
 > ***2.1.1. Info 1. Hierarchy of Measuring Units***
 
-| High  | ------>  | Low                 |
+| High  | Middle   | Low                 |
 | :---: | :---:    | :---:               |
 | Box   | 盒<br>組 | 顆<br>粒<br>個<br>串 |
 
