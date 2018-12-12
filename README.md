@@ -1,6 +1,9 @@
 # Regular_Expression
 ## Part 1. Objective
- 
+Purchasing unit defined in the Order Report is ***Box*** and the aim is to identify how many ***Pieces*** were purchased during a specific period of time.
+> **_Point 1:_** Measurements of per unit volume purchased are specified in Column ***Fruit_Name*** and denoted with parentheses.
+> **_Point 2:_** People who are responsible for maintaining Order Report may have different preferences when it comes to creating units of measure. 
+
 ## Part 2. Data
 | Index  | Store   | Order | Fruit_Name_ID | Fruit_Name         | Qty<br>Box | Qty<br>Piece |  
 | :---:  | ---     | :---: | ---           | ---                | ---:       | ---:
