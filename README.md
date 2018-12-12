@@ -21,7 +21,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 
 | High  | Middle   | Low |
 | :---: | :---:  | :---: |
-| *Bulk* | *Set* | *Piece* |
+| *Box* | *Set* | *Piece* |
 | Box   | 盒<br>組 | 顆<br>粒<br>個<br>串 |
 
 ### 2.2. Original Data
