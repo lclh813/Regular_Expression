@@ -36,4 +36,5 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 |      7 | Store 4 |     1 | APPL002       | Royal Gala (12粒 x 12組)       |   20    |  
 |      8 | Store 4 |     2 | APPL003       | Fuji (6個 x 8盒)               |   30    | 
 ## Part 3. Outline
+
 ## Part 4. Steps
