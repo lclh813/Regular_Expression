@@ -19,10 +19,10 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 ### 2.1. Background Information
 > ***Hierarchy of Measuring Units***
 
-| High  | Middle   | Low |
-| :---: | :---:  | :---: |
-| *Box* | *Set* | *Piece* |
-| Box   | 盒<br>組 | 顆<br>粒<br>個<br>串 |
+| High    | Middle   | Low                 |
+| :---:   | :---:    | :---:               |
+| *Box*   | *Set*    | *Piece*             |
+| Qty_Box | 盒<br>組 | 顆<br>粒<br>個<br>串 |
 
 ### 2.2. Original Data
 | Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                     | Qty_Box |  
@@ -36,5 +36,12 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 |      7 | Store 4 |     1 | APPL002       | Royal Gala (12粒 x 12組)       |   20    |  
 |      8 | Store 4 |     2 | APPL003       | Fuji (6個 x 8盒)               |   30    | 
 ## Part 3. Outline
+### 3.1. Clean Dataset
+> **Data Type Conversion**
+- Records in Column ***Qty_Box*** turned out to be string objects rather than numeric values because data was exported as text format in the first place. It is necessary to convert strings to numbers before proceeding further calculation.
+- Tool: Python ```astype```
+
+### 3.2. Select Data
+
 
 ## Part 4. Steps
