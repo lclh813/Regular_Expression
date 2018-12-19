@@ -42,18 +42,16 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 |      8 | Store 4 |     1 | APPL002       | Royal Gala (12粒 x 12)         |   20    |  
 |      9 | Store 4 |     2 | APPL003       | Fuji (6個 X 8盒)               |   30    |
 |     10 | Store 4 |     3 | APPLE         | iPhone 8 32GB                  |   1    | 
+
 ## Part 3. Outline
 ### 3.1. Clean Dataset
-> **Data Type Conversion**
-- Records in Column ***Qty_Box*** turned out to be string objects rather than numeric values because data was exported as text format in the first place. It is necessary to convert strings to numbers before proceeding further calculation.
-- Tool: Python ```astype```
-
-### 3.2. Select Data
-### 3.3. Define Function
-#### 3.3.1. Extract Substrings by Regular Expression 
-#### 3.3.2. Convert Strings to Numeric Values
-#### 3.3.3. Multiplication
-
+- Select Columns that are essential to further analysis and remove spaces from dataframe strings.
+- Tool: ```replace```
+### 3.1. Select Data
+### 3.2. Define Function
+#### 3.2.1. Extract Substrings by Regular Expression 
+#### 3.2.2. Convert Strings to Numeric Values
+#### 3.2.3. Multiplication
 ### 3.3. Calculate 
 
 
