@@ -5,15 +5,14 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 
 > **_Point 2:_** People who are responsible for maintaining the Order Report may have different preferences when creating units of measure. 
 
-| Fruit_Name_ID | Fruit_Name        | ***Qty_Box*** | Set/Box | Piece/Set | ***Qty_Piece*** |
-| :---          | :---              | ---:          | ---:    | ---:      | ---:            |
-| APPL001	      | Red Delicious     |	***100***     | 12      | 8         | ***9,600***     |
-| APPL002	      | Royal Gala	      | ***50***      | 12      | 12        | ***10,080***    |
-| APPL003	      | Fuji	            |       |                 15,840    |
-| GRAP001	      | Golden Muscat	    |      |                 9,000     |
-| GRAP002	      | Red Globe         |	     |                  16,000    |
-| KIWI001	      | Sungold Kiwifruit |	                16,000    |
-
+| Fruit_Name_ID | Fruit_Name        | ***Qty_Box***   | Set/Box  | Piece/Set | ***Qty_Piece*** |
+| :---          | :---              | ---:            | ---:     | ---:      | ---:            |
+| APPL001	      | Red Delicious     |	***100***       | 12       | 8         | ***9,600***     |
+| APPL002	      | Royal Gala	      | ***50<br>20***  | 12<br>12 | 12<br>12  | ***10,080***    |
+| APPL003	      | Fuji	            | ***150<br>30*** | 12<br>8  | 8<br>6    | ***15,840***    |
+| GRAP001	      | Golden Muscat	    | ***30***        | 10       | 30        | ***9,000***     |
+| GRAP002	      | Red Globe         |	***80***        | 10       | 20        | ***16,000***    |
+| KIWI001	      | Sungold Kiwifruit |	***200***       | 20       | 4         | ***16,000***    |
 
 ## Part 2. Data
 ### 2.1. Background Information
