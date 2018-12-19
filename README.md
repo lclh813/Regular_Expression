@@ -55,8 +55,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 - Convert strings that are Arabic numerals to integers by ```int``` and those that are Chinese numerals by adopting the concept of base-10 positional numeral system.
 - Tool: Python ```if```
 #### 3.2.3. Multiplication
-- Multiply Number of Boxes ***(Qty_Box)***, Number of Sets per Box ***(Set/Box)***, Number of Pieces per Set ***(Piece/Set)*** to get 
-Number of Pieces ***(Qty_Piece)*** that have been purchased during the specific perioed of time.
+- Multiply values in specific columns to get the number of pieces purchased.
 - Tool: Python ```lambda```
 
 ## Part 4. Steps
