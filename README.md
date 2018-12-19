@@ -32,15 +32,15 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 ### 2.2. Original Data
 | Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                     | Qty_Box |  
 | :---:  | ---     | :---: | :---          | :---                           | ---:    | 
-|      1 | Store 1 |     1 | APPL001       | Red Delicious (八顆 x 3)       |  100    | 
+|      1 | Store 1 |     1 | APPL001       | Red D e liciou s (八顆 x 3)    |  100    | 
 |      2 | Store 1 |     2 | APPL002       | Royal Gala (12粒 X 12盒)       |   50    |
-|      3 | Store 1 |     3 | APPL          | iPad Mini 4                    |   2     | 
+|      3 | Store 1 |     3 | APPL          | iPad Mi n i 4                  |   2     | 
 |      4 | Store 1 |     4 | GRAP001       | Golden Muscat (30串 * 十盒)    |   30    | 
-|      5 | Store 2 |     1 | KIWI001       | Sungold Kiwifruit (4粒 x 20)   |  200    |  
-|      6 | Store 3 |     1 | APPL003       | Fuji (8粒十二盒)               |  150    | 
-|      7 | Store 3 |     2 | GRAP002       | Red Globe (二十串 * 10組)      |   80    | 
-|      8 | Store 4 |     1 | APPL002       | Royal Gala (12粒 x 12)         |   20    |  
-|      9 | Store 4 |     2 | APPL003       | Fuji (6個 X 8盒)               |   30    |
+|      5 | Store 2 |     1 | KIWI001       | Sungold Kiwifru i t (4粒 x 20) |  200    |  
+|      6 | Store 3 |     1 | APPL003       | Fuj i (8粒十二盒)              |  150    | 
+|      7 | Store 3 |     2 | GRAP002       | Red Globe (二十串 * 10 組)     |   80    | 
+|      8 | Store 4 |     1 | APPL002       | Royal Gala (12  粒 x 12)       |   20    |  
+|      9 | Store 4 |     2 | APPL003       | Fuji (6個 X 8 盒)              |   30    |
 |     10 | Store 4 |     3 | APPL          | iPhone 8 32GB                  |   1     | 
 
 ## Part 3. Outline
