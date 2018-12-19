@@ -45,14 +45,19 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 
 ## Part 3. Outline
 ### 3.1. Clean Dataset
-- Select Columns that are essential to further analysis and remove spaces from dataframe strings.
-- Tool: ```replace```
-### 3.1. Select Data
+- Select columns that are essential to further analysis and remove spaces from dataframe strings.
+- Tool: Python ```replace```
 ### 3.2. Define Function
 #### 3.2.1. Extract Substrings by Regular Expression 
+- Extract numbers ***before*** units of measure or ***after*** multiplication signs.
+- Tool: Python ```re.findall```
 #### 3.2.2. Convert Strings to Numeric Values
+- Convert strings that are Arabic numerals to integers by ```int``` and those that are Chinese numerals by adopting the concept of base-10 positional numeral system.
+- Tool: Python ```if```
 #### 3.2.3. Multiplication
-### 3.3. Calculate 
-
+- Multiply Number of Boxes ***(Qty_Box)***, Number of Sets per Box ***(Set/Box)***, Number of Pieces per Set ***(Piece/Set)*** to get 
+Number of Pieces ***(Qty_Piece)*** that have been purchased during the specific perioed of time.
+- Tool: Python ```lambda```
 
 ## Part 4. Steps
+
