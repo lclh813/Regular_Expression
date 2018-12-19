@@ -30,18 +30,18 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 | **Chinese** | **一** | **二** | **三** | **四** | **五** | **六** | **七** | **八** | **九** | **十** |
 
 ### 2.2. Original Data
-| Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                             | Qty_Box |  
-| :---:  | ---     | :---: | :---          | :---                                   | ---:    | 
-|      1 | Store 1 |     1 | APPL001       | Red D e liciou s (八**顆** x 3)        |  100    | 
-|      2 | Store 1 |     2 | APPL002       | Royal Gala (12**粒** X 12**盒**)       |   50    |
-|      3 | Store 1 |     3 | APPL          | iPad Mi n i 4                          |   2     | 
-|      4 | Store 1 |     4 | GRAP001       | Golden Muscat (30**串** * 十**盒**)     |   30    | 
-|      5 | Store 2 |     1 | KIWI001       | Sungold Kiwifru i t (4**粒** x 20)     |  200    |  
-|      6 | Store 3 |     1 | APPL003       | Fuj i (8**粒**十二**盒**)               |  150    | 
-|      7 | Store 3 |     2 | GRAP002       | Red Globe (二十**串** * 10 **組**)     |   80    | 
-|      8 | Store 4 |     1 | APPL002       | Royal Gala (12  **粒** x 12)           |   20    |  
-|      9 | Store 4 |     2 | APPL003       | Fuji (6**個** X 8 **盒**)              |   30    |
-|     10 | Store 4 |     3 | APPL          | iPhone 8 32GB                          |   1     | 
+| Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                                | Qty_Box |  
+| :---:  | ---     | :---: | :---          | :---                                      | ---:    | 
+|      1 | Store 1 |     1 | APPL001       | Red D e liciou s (八***顆*** x 3)         |  100    | 
+|      2 | Store 1 |     2 | APPL002       | Royal Gala (12***粒*** X 12***盒***)      |   50    |
+|      3 | Store 1 |     3 | APPL          | iPad Mi n i 4                             |   2     | 
+|      4 | Store 1 |     4 | GRAP001       | Golden Muscat (30***串*** * 十***盒***)    |   30    | 
+|      5 | Store 2 |     1 | KIWI001       | Sungold Kiwifru i t (4***粒*** x 20)       |  200    |  
+|      6 | Store 3 |     1 | APPL003       | Fuj i (8***粒***十二***盒***)              |  150    | 
+|      7 | Store 3 |     2 | GRAP002       | Red Globe (二十***串*** * 10 ***組***)     |   80    | 
+|      8 | Store 4 |     1 | APPL002       | Royal Gala (12  ***粒*** x 12)             |   20    |  
+|      9 | Store 4 |     2 | APPL003       | Fuji (6***個*** X 8 ***盒***)              |   30    |
+|     10 | Store 4 |     3 | APPL          | iPhone 8 32GB                              |   1     | 
 
 ## Part 3. Outline
 ### 3.1. Clean Dataset
