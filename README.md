@@ -30,14 +30,6 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Chinese** | **一** | **二** | **三** | **四** | **五** | **六** | **七** | **八** | **九** | **十** |
 
-| Chinese | Arabic | Chinese | Arabic | 
-| :---:   | :---:  | :---:   | :---:  |
-| 一      | 1      | 六      | 6      | 
-| 二      | 2      | 七      | 7      | 
-| 三      | 3      | 八      | 8      | 
-| 四      | 4      | 九      | 9      | 
-| 五      | 5      | 十      | 10     | 
-
 ### 2.2. Original Data
 | Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                     | Qty_Box |  
 | :---:  | ---     | :---: | :---          | :---                           | ---:    | 
