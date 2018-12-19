@@ -28,7 +28,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 
 | Arabic  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Chinese | 一 | 二 | 三 | 四 | 五 | 六 | 七 | 八 | 九 | 十 |
+| **Chinese** | **一** | **二** | **三** | **四** | **五** | **六** | **七** | **八** | **九** | **十** |
 
 | Chinese | Arabic | Chinese | Arabic | 
 | :---:   | :---:  | :---:   | :---:  |
