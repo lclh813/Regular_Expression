@@ -25,6 +25,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 | Qty_Box | 盒<br>組 | 顆<br>粒<br>個<br>串 |
 
 > ***Info 2. Conversion Table of Chinese Numerals to Arabic***
+
 | Chinese | Arabic | Chinese | Arabic | 
 | :---:   | :---:  | :---:   | :---:  |
 | 一      | 1      | 六      | 6      | 
