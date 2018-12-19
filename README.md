@@ -27,9 +27,9 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 ### 2.2. Original Data
 | Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                     | Qty_Box |  
 | :---:  | ---     | :---: | :---          | :---                           | ---:    | 
-|      1 | Store 1 |     1 | APPL001       | Red Delicious (8顆 x 3盒)      |  100    | 
-|      2 | Store 1 |     2 | APPL002       | Royal Gala (12粒 x 12盒)       |   50    |  
-|      3 | Store 1 |     3 | GRAP001       | Golden Muscat (30串 x 10盒)    |   30    |  
+|      1 | Store 1 |     1 | APPL001       | Red Delicious (8顆 x 3)        |  100    | 
+|      2 | Store 1 |     2 | APPL002       | Royal Gala (12粒 X 12盒)       |   50    |  
+|      3 | Store 1 |     3 | GRAP001       | Golden Muscat (30串*/ 10盒)    |   30    |  
 |      4 | Store 2 |     1 | KIWI001       | Sungold Kiwifruit (4粒 x 20組) |  200    |  
 |      5 | Store 3 |     1 | APPL003       | Fuji (8粒 x 12盒)              |  150    | 
 |      6 | Store 3 |     2 | GRAP002       | Red Globe (20串 x 10組)        |   80    |  
