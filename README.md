@@ -43,6 +43,12 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 |      9 | Store 4 |     2 | APPL003       | Fuji (6個 X 8 盒)                |   30    |
 |     10 | Store 4 |     3 | APPL          | iPhone 8 32GB                    |   1     | 
 
+| Index  | Fruit_Type_ID  | Fruit_Type | 
+| :---:  | :---           | :---       | 
+|      1 | APPL           | Apple      |
+|      2 | GRAP           | Grape      |
+|      3 | KIWI           | Kiwifruit  |
+
 ## Part 3. Outline
 ### 3.1. Clean Dataset
 - Select columns that are essential to further analysis and remove spaces from dataframe strings.
