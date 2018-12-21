@@ -30,6 +30,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 | **Chinese** | **一** | **二** | **三** | **四** | **五** | **六** | **七** | **八** | **九** | **十** |
 
 ### 2.2. Original Data
+> ***Data 1. Order Report***
 | Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                      | Qty_Box |  
 | :---:  | ---     | :---: | :---          | :---                            | ---:    | 
 |      1 | Store 1 |     1 | APPL001       | Red D e liciou s (八顆 x 3)      |  100    | 
@@ -43,6 +44,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 |      9 | Store 4 |     2 | APPL003       | Fuji (6個 X 8 盒)                |   30    |
 |     10 | Store 4 |     3 | APPL          | iPhone 8 32GB                    |   1     | 
 
+> ***Data 2. Fruit Type and ID***
 | Index  | Fruit_Type_ID  | Fruit_Type | 
 | :---:  | :---           | :---       | 
 |      1 | APPL           | Apple      |
