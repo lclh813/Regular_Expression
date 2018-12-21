@@ -31,6 +31,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 
 ### 2.2. Original Data
 > ***Data 1. Order Report***
+
 | Index  | Store   | Order | Fruit_Name_ID | Fruit_Name                      | Qty_Box |  
 | :---:  | ---     | :---: | :---          | :---                            | ---:    | 
 |      1 | Store 1 |     1 | APPL001       | Red D e liciou s (八顆 x 3)      |  100    | 
@@ -45,6 +46,7 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 |     10 | Store 4 |     3 | APPL          | iPhone 8 32GB                    |   1     | 
 
 > ***Data 2. Fruit Type and ID***
+
 | Index  | Fruit_Type_ID  | Fruit_Type | 
 | :---:  | :---           | :---       | 
 |      1 | APPL           | Apple      |
