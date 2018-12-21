@@ -69,4 +69,9 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 - Tool: Python ```lambda```
 
 ## Part 4. Steps
-
+> [***Complete Code***]
+#### [Step 1. Import Library](https://github.com/lclh813/Regular_Expression/blob/master/1_ImportLibrary.ipynb)
+#### [Step 2. Import Data](https://github.com/lclh813/Regular_Expression/blob/master/2_ImportData.ipynb)
+#### [Step 3. Clean Datset](https://github.com/lclh813/Regular_Expression/blob/master/3_CleanDataset.ipynb)
+#### [Step 4. Define Function](https://github.com/lclh813/Regular_Expression/blob/master/4_DefineFunction.ipynb)
+#### [Step 5. Data Analysis](https://github.com/lclh813/Regular_Expression/blob/master/5_DataAnalysis.ipynb)
