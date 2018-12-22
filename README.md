@@ -69,9 +69,9 @@ Purchasing unit defined in the Order Report is ***Box*** and the aim is to ident
 - Tool: Python ```lambda```
 
 ## Part 4. Steps
-> [***Complete Code***](https://github.com/lclh813/Regular_Expression/blob/master/6_CompleteCode.ipynb)
-#### [Step 1. Import Library](https://github.com/lclh813/Regular_Expression/blob/master/1_ImportLibrary.ipynb)
-#### [Step 2. Import Data](https://github.com/lclh813/Regular_Expression/blob/master/2_ImportData.ipynb)
-#### [Step 3. Clean Datset](https://github.com/lclh813/Regular_Expression/blob/master/3_CleanDataset.ipynb)
-#### [Step 4. Define Function](https://github.com/lclh813/Regular_Expression/blob/master/4_DefineFunction.ipynb)
-#### [Step 5. Data Analysis](https://github.com/lclh813/Regular_Expression/blob/master/5_DataAnalysis.ipynb)
+> [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Regular_Expression/blob/master/6_CompleteCode.ipynb)
+#### [Step 1. Import Library](https://nbviewer.jupyter.org/github/lclh813/Regular_Expression/blob/master/1_ImportLibrary.ipynb)
+#### [Step 2. Import Data](https://nbviewer.jupyter.org/github/lclh813/Regular_Expression/blob/master/2_ImportData.ipynb)
+#### [Step 3. Clean Datset](https://nbviewer.jupyter.org/github/lclh813/Regular_Expression/blob/master/3_CleanDataset.ipynb)
+#### [Step 4. Define Function](https://nbviewer.jupyter.org/github/lclh813/Regular_Expression/blob/master/4_DefineFunction.ipynb)
+#### [Step 5. Data Analysis](https://nbviewer.jupyter.org/github/lclh813/Regular_Expression/blob/master/5_DataAnalysis.ipynb)
